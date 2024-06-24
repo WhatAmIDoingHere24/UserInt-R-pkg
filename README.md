@@ -1,2 +1,2 @@
 # UserInt-R-pkg
-in stats class ive had alot of very annoying instances of having to do user input so ive made this R studio pkg to fix that
+This pkg is desgnied to help with user interaction and abillitys. My goal is to make R a more viable programmin languge for main stream use. This is the first project of manny that i hope will add more viable interaction and abillity to R 
