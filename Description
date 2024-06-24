@@ -3,7 +3,7 @@ Version: 0.0.1
 Date: 2024.6.24
 Title: User Interaction in R
 Authors@R: c(person("Jett", "Developer", role = c("aut", "cre"),
-Maintainer: Jett Developer
+Maintainer: Jett Developer <jett@powersportpros.com>
 Depends: R (>= 3.1.0), nlme
 Suggests: MASS
 Description: UserInt is a pkg to help with user interactions and abillitys in R see more at <https://allomnipotent-com.pages.dev>
