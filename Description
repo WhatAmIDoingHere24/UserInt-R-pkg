@@ -1,1 +1,12 @@
-
+Package: UserInt
+Version: 0.0.1
+Date: 2024.6.24
+Title: User Interaction in R
+Authors@R: c(person("Jett", "Developer", role = c("aut", "cre"),
+Maintainer: Jett Developer
+Depends: R (>= 3.1.0), nlme
+Suggests: MASS
+Description: UserInt is a pkg to heklp with user interactions and abillitys in R
+License: GPL (>= 2)
+URL: https://www.r-project.org, http://www.another.url
+BugReports: https://pkgname.bugtracker.url
