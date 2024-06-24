@@ -6,7 +6,7 @@ Authors@R: c(person("Jett", "Developer", role = c("aut", "cre"),
 Maintainer: Jett Developer
 Depends: R (>= 3.1.0), nlme
 Suggests: MASS
-Description: UserInt is a pkg to heklp with user interactions and abillitys in R
+Description: UserInt is a pkg to help with user interactions and abillitys in R see more at <https://allomnipotent-com.pages.dev>
 License: GPL (>= 2)
 URL: https://www.r-project.org, http://www.another.url
 BugReports: https://pkgname.bugtracker.url
